@@ -11,7 +11,7 @@ public class Produto {
 	private double valor;
 	private String descricao;
 
-	public Produto() {
+	public Produto(int i, double d, String string) {
 		super();
 	}
 
